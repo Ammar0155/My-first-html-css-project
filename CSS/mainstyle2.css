@@ -2,6 +2,7 @@
 
     body{
         background-color:#888;
+        width: fit-content;
 
         font-family:Verdana, "Work Sans", sans-serif;
     }
